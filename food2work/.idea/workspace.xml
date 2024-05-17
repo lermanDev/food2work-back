@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1242810-2bcb-447e-abd5-a373c7cd676e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZvhD42HaJjTmoaVPWImZ14YI9g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imagenes/recetas" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imagenes/recetas" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="food2work" type="Python.DjangoServer" factoryName="Django server">
+      <module name="food2work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1242810-2bcb-447e-abd5-a373c7cd676e" name="Default Changelist" comment="" />
+      <created>1585725351361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585725351361</updated>
+      <workItem from="1585725352651" duration="17767000" />
+      <workItem from="1585827752196" duration="1221000" />
+      <workItem from="1585919401404" duration="8629000" />
+      <workItem from="1589897956873" duration="11117000" />
+      <workItem from="1589981406944" duration="22063000" />
+      <workItem from="1590140572903" duration="17000" />
+      <workItem from="1590143462718" duration="94000" />
+      <workItem from="1590600007125" duration="22990000" />
+      <workItem from="1590687096374" duration="23195000" />
+      <workItem from="1590994503526" duration="629000" />
+      <workItem from="1591022911885" duration="729000" />
+      <workItem from="1591167037615" duration="708000" />
+      <workItem from="1591188413352" duration="627000" />
+      <workItem from="1591198249138" duration="78000" />
+      <workItem from="1591199259061" duration="729000" />
+    </task>
+    <task id="LOCAL-00001" summary="MODELO INGREDIENTES">
+      <created>1585729566944</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585729566944</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ingredientes">
+      <created>1585737080619</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585737080619</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Añadidos aplicaciones comidas y usuarios a mejorar por xavi@xavi.net">
+      <created>1585760900683</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585760900683</updated>
+    </task>
+    <task id="LOCAL-00004" summary="creados modelos comidas y usuarios, necesita makemigrations migrate">
+      <created>1586960868172</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586960868172</updated>
+    </task>
+    <task id="LOCAL-00005" summary="VERSIÓN 0.1 PRUEBAS">
+      <created>1590139146223</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590139146223</updated>
+    </task>
+    <task id="LOCAL-00006" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1590651835233</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590651835233</updated>
+    </task>
+    <task id="LOCAL-00007" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1590661603166</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590661603166</updated>
+    </task>
+    <task id="LOCAL-00008" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1590664828740</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590664828740</updated>
+    </task>
+    <task id="LOCAL-00009" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1590665300483</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590665300483</updated>
+    </task>
+    <task id="LOCAL-00010" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1590730338370</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590730338370</updated>
+    </task>
+    <task id="LOCAL-00011" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1590730470468</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1590730470468</updated>
+    </task>
+    <task id="LOCAL-00012" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1590730553718</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1590730553718</updated>
+    </task>
+    <task id="LOCAL-00013" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1590730591041</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590730591041</updated>
+    </task>
+    <task id="LOCAL-00014" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1590731394367</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1590731394368</updated>
+    </task>
+    <task id="LOCAL-00015" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1590735013707</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1590735013707</updated>
+    </task>
+    <task id="LOCAL-00016" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1590742277875</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1590742277875</updated>
+    </task>
+    <task id="LOCAL-00017" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1590745524518</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1590745524518</updated>
+    </task>
+    <task id="LOCAL-00018" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1590746828107</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1590746828107</updated>
+    </task>
+    <task id="LOCAL-00019" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1590746954592</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1590746954592</updated>
+    </task>
+    <task id="LOCAL-00020" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1590747080297</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1590747080297</updated>
+    </task>
+    <task id="LOCAL-00021" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1590752656105</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1590752656105</updated>
+    </task>
+    <task id="LOCAL-00022" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1590755788871</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1590755788871</updated>
+    </task>
+    <task id="LOCAL-00023" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1590759984746</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1590759984746</updated>
+    </task>
+    <task id="LOCAL-00024" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1591023019273</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1591023019273</updated>
+    </task>
+    <task id="LOCAL-00025" summary="VERSIÓN 0.1.1 PRUEBAS">
+      <created>1591167131014</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1591167131014</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MODELO INGREDIENTES" />
+    <MESSAGE value="ingredientes" />
+    <MESSAGE value="Añadidos aplicaciones comidas y usuarios a mejorar por xavi@xavi.net" />
+    <MESSAGE value="creados modelos comidas y usuarios, necesita makemigrations migrate" />
+    <MESSAGE value="VERSIÓN 0.1 PRUEBAS" />
+    <MESSAGE value="VERSIÓN 0.1.1 PRUEBAS" />
+    <option name="LAST_COMMIT_MESSAGE" value="VERSIÓN 0.1.1 PRUEBAS" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2445" y="123" width="912" height="831" key="CommitChangelistDialog2" timestamp="1591167130869">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="525" y="147" width="860" height="810" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1586960868100" />
+    <state x="2445" y="123" width="912" height="831" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.1073@1920.0.1920.1080" timestamp="1591167130869" />
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585826744856">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1585826744856" />
+    <state x="2369" y="164" key="SettingsEditor" timestamp="1590143555017">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="449" y="187" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1585725537880" />
+    <state x="2369" y="164" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1073@1920.0.1920.1080" timestamp="1590143555017" />
+    <state x="2475" y="268" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1591167132400">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1586960871686" />
+    <state x="2475" y="268" width="800" height="528" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.1073@1920.0.1920.1080" timestamp="1591167132400" />
+    <state x="2020" y="125" width="1720" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1590646273449">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2020" y="125" width="1720" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.1920.1080/0.27.1920.1073@1920.0.1920.1080" timestamp="1590646273449" />
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1585827763000">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1585827763000" />
+    <state x="2494" y="213" width="762" height="679" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589902520960">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2494" y="213" width="762" height="679" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.27.1920.1073@1920.0.1920.1080" timestamp="1589902520960" />
+    <state x="606" y="346" width="697" height="413" key="git4idea.merge.GitPullDialog" timestamp="1585760912410">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="606" y="346" width="697" height="413" key="git4idea.merge.GitPullDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1585760912410" />
+    <state x="2605" y="439" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1590763265493">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="685" y="455" width="540" height="194" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1585755337808" />
+    <state x="2605" y="439" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.0.1920.1080/0.27.1920.1073@1920.0.1920.1080" timestamp="1590763265493" />
+  </component>
+</project>
